@@ -10,3 +10,12 @@ Tesselations and Mandalas // Disguising Mathematics
 
 ## Lesson 3. 
 Paint by Number // Disguising Mathematics
+
+## Lesson 4. 
+Playing with light // Understanding Electricity
+
+## Lesson 5. 
+Alternative Lamps // Understanding Electricity
+
+## Lesson 6.
+Making it move // Understanding Electricity
