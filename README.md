@@ -3,13 +3,13 @@
 ### Created and Concepted by Alexis Mattos-Vabre
 
 ## Lesson 1. 
-Robotic Brainstorming // Disguising Mathematics
+Robotic Brainstorming // Dressing up Mathematics
 
 ## Lesson 2. 
-Tesselations and Mandalas // Disguising Mathematics
+Tesselations and Mandalas // Dressing up Mathematics
 
 ## Lesson 3. 
-Paint by Number // Disguising Mathematics
+Paint by Number // Dressing up Mathematics
 
 ## Lesson 4. 
 Playing with light // Understanding Electricity
